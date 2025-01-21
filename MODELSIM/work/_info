@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/INTEL
+vbin2bcd
+Z0 !s110 1718700717
+!i10b 1
+!s100 >UgThdk8GVeNd@gA;HYRO1
+IaYiaPT^91BniUCXTLzQa83
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM
+w1718616480
+8C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/bin2bcd.v
+FC:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/bin2bcd.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1718700717.000000
+!s107 C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/bin2bcd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/bin2bcd.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vhex_7seg_decoder
+R0
+!i10b 1
+!s100 W];iYW@>ncFb^fXg;Q]B_2
+IVfF=4T85M6kRfWGDjEGQS3
+R1
+R2
+w1718689519
+8C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/hex_7seg_decoder.v
+FC:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/hex_7seg_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/hex_7seg_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/hex_7seg_decoder.v|
+!i113 1
+R5
+R6
+vtb_bcd2bin
+R0
+!i10b 1
+!s100 PeXNc=GZ;d6:HheL[Ka];1
+I^@_:zcg1N]Y6?47Bd0bWT0
+R1
+R2
+w1718617253
+8C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_bcd2bin.v
+FC:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_bcd2bin.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_bcd2bin.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_bcd2bin.v|
+!i113 1
+R5
+R6
+vtb_timer
+R0
+!i10b 1
+!s100 YJIJOR1AUcOmKe2fZ1U=c2
+IV@hGS4KhogmU=2zk<85TG2
+R1
+R2
+w1718626120
+8C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_timer.v
+FC:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_timer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_timer.v|
+!i113 1
+R5
+R6
+vtimer
+R0
+!i10b 1
+!s100 FEFiRRgiAOYZ29]ahEf9[0
+I]gnPKHlZD_lbo]90S9ZAF0
+R1
+R2
+w1718691319
+8C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer.v
+FC:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer.v|
+!i113 1
+R5
+R6
+vtimer_top
+R0
+!i10b 1
+!s100 4Oemz@I9:^O>kM^klQMZe2
+I@1K883>[O8I;<FoQa6]Ij0
+R1
+R2
+w1718616531
+8C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer_top.v
+FC:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer_top.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,209 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_HEX0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX4[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX4[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX5[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX5[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX5[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_HEX5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "save",
+					"strict" : false
+				},
+				{
+					"name" : "rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "select_seconds",
+					"strict" : false
+				},
+				{
+					"name" : "select_minutes",
+					"strict" : false
+				},
+				{
+					"name" : "select_hours",
+					"strict" : false
+				},
+				{
+					"name" : "increment",
+					"strict" : false
+				},
+				{
+					"name" : "start_stop",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

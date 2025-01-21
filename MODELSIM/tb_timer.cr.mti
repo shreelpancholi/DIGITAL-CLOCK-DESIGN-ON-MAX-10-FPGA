@@ -1,0 +1,43 @@
+{C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/bin2bcd.v} {1 {vlog -work work -stats=none {C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/bin2bcd.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bin2bcd
+
+Top level modules:
+	bin2bcd
+
+} {} {}} {C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_bcd2bin.v} {1 {vlog -work work -stats=none {C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_bcd2bin.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_bcd2bin
+
+Top level modules:
+	tb_bcd2bin
+
+} {} {}} {C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer.v} {1 {vlog -work work -stats=none {C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module timer
+
+Top level modules:
+	timer
+
+} {} {}} {C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_timer.v} {1 {vlog -work work -stats=none {C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/tb_timer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_timer
+
+Top level modules:
+	tb_timer
+
+} {} {}} {C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer_top.v} {1 {vlog -work work -stats=none {C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/timer_top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module timer_top
+
+Top level modules:
+	timer_top
+
+} {} {}} {C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/hex_7seg_decoder.v} {1 {vlog -work work -stats=none {C:/Users/Shreel Pancholi/Desktop/FINAL/MODELSIM/hex_7seg_decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module hex_7seg_decoder
+
+Top level modules:
+	hex_7seg_decoder
+
+} {} {}}
